@@ -5,7 +5,8 @@ This repository contains the files related to the Multicore Programming project 
 * `handout.pdf` - Describes the task and goals of the project.
 * `align.c` - The sequential version of the program.
 * `rng.c` - Custom RNG functions.
-<br>
+<br/>
+
 ### Submission
 * `Multicore_Programming_Project.pdf` - Project report.
 * `align_omp.c` - OpenMP implementation.
